@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on challenging Python, Java, and C projects that push the boundaries of my programming abilities.
 - 📫 How to reach me a21patel@torontomu.ca
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: "I’m fluent in 3 languages and learning a 4th."
+- ⚡ Fun fact: "I’m fluent in 3 languages and learning 4th."
 
 <!---
 a21patel/a21patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
